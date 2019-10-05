@@ -2,8 +2,8 @@
 
 
 const KEY_EMPTY_STRING =  '';
-const KEY_APP_NAME =  'Mess Star';
-const KEY_APP_SLOGAN =  'Online Mess For Everyone';
+const KEY_APP_NAME =  'Flutter Sample App';
+const KEY_APP_SLOGAN =  'Loading, please wait...';
 const KEY_FIRST_NAME =  'First Name';
 const KEY_LAST_NAME =  'Last Name';
 const KEY_EMAIL_ID =  'Email ID';
